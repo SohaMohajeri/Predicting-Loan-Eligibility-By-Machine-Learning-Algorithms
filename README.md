@@ -11,7 +11,6 @@
 
 <br />
 
-
 <div align="justify">
 
 The dataset used this project is retrieved from kaggle, the home of Data Science. There are three parts to our report, as follows:
