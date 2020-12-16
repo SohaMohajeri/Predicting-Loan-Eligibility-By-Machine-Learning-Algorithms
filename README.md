@@ -25,5 +25,3 @@ The major objective of this project is to predict whether the bank will approve 
 </div>
 
 
-
-
